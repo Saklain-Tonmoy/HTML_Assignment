@@ -2,7 +2,7 @@
 HTML_Assignment for Software Engineer(INTERN). Powered by W3Engineers.
 
 # Tools Used
-* * HTML * *
+* HTML
 * CSS
 * BOOTSTRAP 5
 
