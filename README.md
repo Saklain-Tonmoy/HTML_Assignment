@@ -1,8 +1,8 @@
-# HTML_Assignment
-First Assignment for Software Engineer(INTERN) by W3Engineers.
+# Project Name
+HTML_Assignment for Software Engineer(INTERN). Powered by W3Engineers.
 
 # Tools Used
-* HTML
+* * HTML * *
 * CSS
 * BOOTSTRAP 5
 
@@ -14,3 +14,5 @@ https://saklain-tonmoy.github.io/HTML_Assignment/
 
 # Screenshots
 !["upper portion"](https://github.com/Saklain-Tonmoy/HTML_Assignment/blob/master/assets/images/screenshot-1)
+!["upper portion"](https://github.com/Saklain-Tonmoy/HTML_Assignment/blob/master/assets/images/screenshot-2)
+!["upper portion"](https://github.com/Saklain-Tonmoy/HTML_Assignment/blob/master/assets/images/screenshot-2)
