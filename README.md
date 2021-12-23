@@ -7,7 +7,7 @@ HTML_Assignment for Software Engineer(INTERN). Powered by W3Engineers.
 * BOOTSTRAP 5
 
 # Description
-It's a Frontend design of a website.
+It's a Frontend design of Rent By Owner website.
 
 # Project Link
 https://saklain-tonmoy.github.io/HTML_Assignment/
