@@ -1,17 +1,23 @@
+.banner {
+    background-image: url('../images/57aab0e632abad3fc198b37c875410ca_1_1920x700.jpg');
+    width: auto;
+    height: 400px;
+    object-fit: contain;
+}
+
 .icon-inside-input {
     float: left;
     position: absolute;
     margin-left: 5px;
     margin-top: 5px;
-    /* margin-right: 5px; */
-    /* margin-top: -20px; */
-    /* z-index: 2; */
 }
+
 .box-content{
     display: flex;
     height: 250px;
     flex-direction: column;
     justify-content: space-between;
+    border-radius: 5px;
 }
 
 .parent {
@@ -26,6 +32,10 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
+}
+
+a {
+    color: #103076;
 }
 
 .overlay {
@@ -45,6 +55,23 @@
 
 .no-underline {
     text-decoration: none;
+}
+
+.page-link {
+    color: #103076;
+}
+
+.page-item.active .page-link {
+    background-color: #103076;
+    border-color: #103076;
+}
+
+.my-color {
+    color: #00cd92;
+}
+
+.my-background {
+    background-color: #103076;
 }
 
 @media screen and (max-width: 600) {
