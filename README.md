@@ -1,6 +1,9 @@
 # Project Name
 HTML_Assignment for Software Engineer(INTERN). Powered by W3Engineers.
 
+# Project Link
+https://saklain-tonmoy.github.io/HTML_Assignment/
+
 # Tools Used
 * HTML
 * CSS
@@ -8,9 +11,6 @@ HTML_Assignment for Software Engineer(INTERN). Powered by W3Engineers.
 
 # Description
 It's a Frontend design of Rent By Owner website.
-
-# Project Link
-https://saklain-tonmoy.github.io/HTML_Assignment/
 
 # Screenshots
 !["upper portion"](https://github.com/Saklain-Tonmoy/HTML_Assignment/blob/master/assets/images/screenshot-1)
